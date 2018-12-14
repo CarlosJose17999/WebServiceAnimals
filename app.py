@@ -13,7 +13,8 @@ animals = [
         "family": "Cathartidae",
         "gender": "Sarcoramphus",
         "species": "Arcoramphus papa",
-        "commonName": "Zopilote rey, condor real, cuervo real"
+        "commonName": "Zopilote rey, condor real, cuervo real",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sarcoramphus_papa_-Atlanta_Zoo%2C_Georgia%2C_USA-8a.jpg/250px-Sarcoramphus_papa_-Atlanta_Zoo%2C_Georgia%2C_USA-8a.jpg"
     },
     {
        "id": "2",
@@ -23,7 +24,8 @@ animals = [
         "family": "cracidae",
         "gender": "crax",
         "species": "crax rubra",
-        "commonName": "pavon negro, hocofaisan, pavon norteno" 
+        "commonName": "pavon negro, hocofaisan, pavon norteno",
+        "image": "http://www.icesi.edu.co/wiki_aves_colombia/show_image.php?id=1784"
     },
     {
         "id": "3",
